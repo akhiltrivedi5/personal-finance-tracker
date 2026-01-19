@@ -1,1 +1,2 @@
 Project documentation
+Git integration test

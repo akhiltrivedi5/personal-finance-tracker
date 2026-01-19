@@ -1,2 +1,1 @@
-# personal-finance-tracker
-Personal finance tracker with applied AI
+# Personal Finance Tracker

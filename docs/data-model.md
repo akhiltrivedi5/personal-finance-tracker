@@ -16,6 +16,10 @@
 - name (text)
 - parent_id (nullable foreign key)
 
+Notes:
+- parent_id = NULL → top-level category (e.g. Food, Travel)
+- parent_id ≠ NULL → subcategory (e.g. Dining Out under Food)
+
 ## PaymentMethod
 - id (integer, primary key)
 - name (text)
